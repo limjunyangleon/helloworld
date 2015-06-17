@@ -11,5 +11,3 @@ Carina editing
 Amabel commit
 
 editing readme
-
-editing w/o updating
